@@ -2,6 +2,46 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="2.13.3"></a>
+## [2.13.3](https://github.com/ng-select/ng-select/compare/v2.13.2...v2.13.3) (2018-12-20)
+
+
+### Bug Fixes
+
+* keep selected items while bindValue is incorrect ([b7294a3](https://github.com/ng-select/ng-select/commit/b7294a3)), closes [#993](https://github.com/ng-select/ng-select/issues/993)
+
+
+
+<a name="2.13.2"></a>
+## [2.13.2](https://github.com/ng-select/ng-select/compare/v2.13.1...v2.13.2) (2018-12-18)
+
+
+### Bug Fixes
+
+* appended dropdown position ([#957](https://github.com/ng-select/ng-select/issues/957)) ([856c9cd](https://github.com/ng-select/ng-select/commit/856c9cd)), closes [#955](https://github.com/ng-select/ng-select/issues/955)
+
+
+
+<a name="2.13.1"></a>
+## [2.13.1](https://github.com/ng-select/ng-select/compare/v2.13.0...v2.13.1) (2018-12-05)
+
+
+### Bug Fixes
+
+* map selected items while source changed ([c5bfd3f](https://github.com/ng-select/ng-select/commit/c5bfd3f)), closes [#980](https://github.com/ng-select/ng-select/issues/980) [#977](https://github.com/ng-select/ng-select/issues/977) [#959](https://github.com/ng-select/ng-select/issues/959)
+
+
+
+<a name="2.13.0"></a>
+# [2.13.0](https://github.com/ng-select/ng-select/compare/v2.12.1...v2.13.0) (2018-12-03)
+
+
+### Features
+
+* **templates:** add searchTerm to header and footer (ng-select[#961](https://github.com/ng-select/ng-select/issues/961)) ([40eb264](https://github.com/ng-select/ng-select/commit/40eb264))
+
+
+
 <a name="2.12.1"></a>
 ## [2.12.1](https://github.com/ng-select/ng-select/compare/v2.12.0...v2.12.1) (2018-11-14)
 
